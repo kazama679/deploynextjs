@@ -3,7 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      deploy next js
+      yêu Minh Anh vcl
     </div>
   )
 }
